@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- Replace this with your preferred image -->
+  <!-- Replace with your image -->
   <img src="https://raw.githubusercontent.com/your-image-here.png" alt="hero" width="420"/>
 </p>
 
@@ -17,11 +17,11 @@
 
 ✨ I believe good analytics isn’t just about accuracy. It’s about stories, clarity, and decisions that actually help people. That’s why I gravitate toward projects where engineering meets insight — pipelines that feel smooth, dashboards that feel intuitive, and models that feel honest.
 
-🧠 I explore data engineering, analytics, and ML with a maker’s mindset: build, refine, simplify, repeat. Tools change — the excitement of learning doesn't.
+🧠 I explore data engineering, analytics, ML, and cloud tools with a maker’s mindset: build, refine, simplify, repeat. Tools change — the excitement of learning doesn't.
 
 💛 **Fun fact:** True to my name, *Rhythm*, I’m usually calm, composed, and well-tuned — whether I’m debugging code or sipping coffee while planning my next project.
 
-☕ Outside the tech bubble, you’ll find me reading, experimenting with vegetarian cooking, and sketching dashboard ideas on scrap paper.
+☕ Outside the tech bubble, you'll find me reading, exploring vegetarian cooking, or sketching dashboard ideas on scrap paper.
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white"></a>
@@ -35,52 +35,67 @@
 ## ⚙️ Technologies & Tools  
 
 <p align="center">
+  <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
+
+  <!-- Analytics & BI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/db2/db2-original.svg" width="55"/>
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="60"/>
+
+  <!-- Data Engineering -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55"/>
+
+  <!-- Pipelines -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="55"/>
+
+  <!-- Productivity / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55"/>
 </p>
 
 ---
 
 ## 🚀 Project Portfolio  
 
-### 🧠 **Data Engineering & Modern Data Stack**
-
-| Project | Description |
-|--------|-------------|
-| **Modern Snowflake ELT Pipeline** | <img src="https://raw.githubusercontent.com/<image1>.png" width="130"/> <br> End-to-end ELT pipeline (S3 → Snowflake → dbt). Includes bronze/silver/gold layers, orchestration, and clean metadata modeling. |
-| **Data Quality & Governance App** | <img src="https://raw.githubusercontent.com/<image2>.png" width="130"/> <br> Streamlit app for entity unification, duplicate detection, and anomaly flags. Dockerized and deployable via Kubernetes. |
-| **Azure ADF Pipeline** | <img src="https://raw.githubusercontent.com/<image3>.png" width="130"/> <br> GitHub → Bronze (Parquet) → Transform → Gold → BI. Reusable factory components and clean MDS architecture. |
+Below are some of my active and recent projects.  
+I will keep adding detailed 2–3 line summaries to each project similar to the layout below.
 
 ---
 
-### 📊 **Analytics, ML & Dashboards**
+### 🧠 Python / Data Engineering / Analytics Projects  
 
 | Project | Description |
 |--------|-------------|
-| **Yelp Recommendation System** | <img src="https://raw.githubusercontent.com/<image4>.png" width="130"/> <br> TF-IDF + cosine similarity recommender with Streamlit dashboard for personalized restaurant suggestions. |
-| **LifeFlight Demand Modeling** | <img src="https://raw.githubusercontent.com/<image5>.png" width="130"/> <br> Time-based demand forecasting and scheduling insights using dispatch data, patterns, and ML models. |
-| **Customer & Sales Dashboards** | <img src="https://raw.githubusercontent.com/<image6>.png" width="130"/> <br> Power BI / Tableau dashboards analyzing reps, pop-up stores, and multi-year customer behavior. |
+| [**modern-data-stack**](https://github.com/rhythm-billore/modern-data-stack) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**yelp_recommendation_system**](https://github.com/rhythm-billore/yelp_recommendation_system) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**vendor_data_pipeline**](https://github.com/rhythm-billore/vendor_data_pipeline) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**netflix_azure_data_engineering_project**](https://github.com/rhythm-billore/netflix_azure_data_engineering_project) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**user_email_management**](https://github.com/rhythm-billore/user_email_management) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**mental_health_counselor_guide**](https://github.com/rhythm-billore/mental_health_counselor_guide) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
 
 ---
-
-## 📈 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhythm-billore&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhythm-billore" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythm-billore&layout=compact" height="150"/>
-</p>
-
----
-
-<p align="center">  
-  Thanks for stopping by! 🌟  
+  Thanks for visiting! 🌟  
 </p>
