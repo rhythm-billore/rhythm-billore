@@ -1,7 +1,7 @@
 <h1 align="center">A Data Engineer & Analytics Enthusiast!</h1>
 
 <p align="center">
-  “Data are stories in disguise—waiting for someone curious enough to reveal them.”
+  “Data are stories in disguise - waiting for someone curious enough to reveal them.”
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 📊 I like turning messy data into ideas that make sense. Numbers feel like quiet puzzles to me, each one waiting to fall neatly into place. Whether I'm shaping a modern data stack, training a model, or building a Streamlit app, I enjoy the mix of logic, design, and curiosity that data work demands.
 
-✨ I believe good analytics isn’t just about accuracy. It’s about stories, clarity, and decisions that actually help people. That’s why I gravitate toward projects where engineering meets insight — pipelines that feel smooth, dashboards that feel intuitive, and models that feel honest.
+✨ I believe good analytics isn’t just about accuracy. It’s about stories, clarity, and decisions that actually help people. That’s why I gravitate toward projects where engineering meets insight - pipelines that feel smooth, dashboards that feel intuitive, and models that feel honest.
 
-🧠 I explore data engineering, analytics, ML, and cloud tools with a maker’s mindset: build, refine, simplify, repeat. Tools change — the excitement of learning doesn't.
+🧠 I explore data engineering, analytics, ML, and cloud tools with a maker’s mindset: build, refine, simplify, repeat. Tools change - the excitement of learning doesn't.
 
-💛 **Fun fact:** True to my name, *Rhythm*, I’m usually calm, composed, and well-tuned — whether I’m debugging code or sipping coffee while planning my next project.
+💛 **Fun fact:** True to my name, *Rhythm*, I’m usually calm, composed, and well-tuned - whether I’m debugging code or sipping coffee while planning my next project.
 
 ☕ Outside the tech bubble, you'll find me reading, exploring vegetarian cooking, or sketching dashboard ideas on scrap paper.
 
@@ -38,7 +38,6 @@
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
 
   <!-- Analytics & BI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="55"/>
@@ -47,9 +46,7 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/db2/db2-original.svg" width="55"/>
 
   <!-- Cloud -->
@@ -61,16 +58,11 @@
   <!-- Data Engineering -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55"/>
 
   <!-- Pipelines -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="55"/>
 
   <!-- Productivity / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55"/>
 </p>
 
