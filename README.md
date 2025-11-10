@@ -34,26 +34,26 @@
 
   <!-- Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
-  <img src="tools_images/snowflake.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/>
-  <img src="tools_images/aws.png" width="50"/>
-  <img src="tools_images/dbt.png" width="50"/>
+  <img src="tools_images/snowflake.png" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="tools_images/aws.png" width="60"/>
+  <img src="tools_images/dbt.png" width="70"/>
 
   <!-- Data Engineering -->
-  <img src="tools_images/databricks.png" width="50"/>
+  <img src="tools_images/databricks.png" width="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
 
   <!-- Analytics / BI -->
-  <img src="tools_images/tableau.png" width="50"/>
+  <img src="tools_images/tableau.png" width="70"/>
   <img src="tools_images/Powerbi.png" width="50"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="tools_images/mysql.png" width="70"/>
 
   <!-- Productivity -->
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="50"/>
-  <img src="tools_images/excel.png" width="50"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40"/>
+  <img src="tools_images/excel.png" width="40"/>
 
 </p>
 
