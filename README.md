@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
 
-  <!-- Productivity & DevOps -->
+  <!-- Productivity / DevOps -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="55"/>
   <img src="https://cdn.simpleicons.org/servicenow/90C53F" width="55"/>
   <img src="https://cdn.simpleicons.org/visio/3955A3" width="55"/>
@@ -71,6 +71,7 @@
   <img src="https://cdn.simpleicons.org/vba/000000" width="55"/>
 
 </p>
+
 
 ---
 
