@@ -63,7 +63,7 @@
 
 ---
 
-### 🧠 Python / Data Engineering / Analytics Projects  
+### 🧠 Data Engineering / Machine Learning / Cloud Analytics Projects  
 
 | Project | Description |
 |--------|-------------|
@@ -71,10 +71,10 @@
 | [**yelp_recommendation_system**](https://github.com/rhythm-billore/yelp_recommendation_system) |A customer-oriented restaurant recommendation engine that uses TF-IDF, cosine similarity, and user-preference vectors to surface the most relevant places for each individual. Delivered with an interactive Streamlit UI featuring tailored suggestions, cuisine patterns, and exploratory insights. |
 | [**netflix_azure_data_engineering_project**](https://github.com/rhythm-billore/netflix_azure_data_engineering_project) |Azure-based data engineering project using Data Factory, ADLS, and SQL to build a reproducible ingestion and transformation pipeline for Netflix-themed datasets. Showcases linked services, pipelines, mapping flows, and query-ready outputs.|
 | [**user_email_management**](https://github.com/rhythm-billore/user_email_management) | A containerized email-management dashboard built with Streamlit, featuring structured storage, parsing, and analysis of user email activity. The app and SQL database run as independent Docker containers and are orchestrated on Kubernetes using Deployments, Services, and ConfigMaps, enabling reliable communication, scaling, and modular deployment.|
-| [**mental_health_counselor_guide**](https://github.com/rhythm-billore/mental_health_counselor_guide) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**mental_health_counselor_guide**](https://github.com/rhythm-billore/mental_health_counselor_guide) |A Streamlit-powered guidance portal that analyzes counselor notes using ML emotion detection and LLM-generated insights, providing real-time, context-aware suggestions through a simple and intuitive interface.|
 
 ---
 
 <p align="center">
-  Thanks for visiting! 🌟  
+  Thankyou for visiting! 😊
 </p>
