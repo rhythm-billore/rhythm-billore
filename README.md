@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Replace with your image -->
-  <img src="https://raw.githubusercontent.com/your-image-here.png](https://github.com/rhythm-billore/rhythm-billore/blob/main/MyDAVersion.png" alt="hero" width="420"/>
+  <img src="https://raw.githubusercontent.com/rhythm-billore/rhythm-billore/main/MyDAVersion.png" alt="hero" width="420"/>
 </p>
 
 ---
