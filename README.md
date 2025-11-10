@@ -50,6 +50,7 @@
 
   <!-- Databases -->
   <img src="tools_images/mysql.png" width="70"/>
+  <img src="tools_images/sap.png" width="70"/>
 
   <!-- Productivity -->
   <img src="https://cdn.simpleicons.org/jira/0052CC" width="40"/>
