@@ -67,11 +67,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [**modern-data-stack**](https://github.com/rhythm-billore/modern-data-stack) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
-| [**yelp_recommendation_system**](https://github.com/rhythm-billore/yelp_recommendation_system) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
-| [**vendor_data_pipeline**](https://github.com/rhythm-billore/vendor_data_pipeline) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
-| [**netflix_azure_data_engineering_project**](https://github.com/rhythm-billore/netflix_azure_data_engineering_project) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
-| [**user_email_management**](https://github.com/rhythm-billore/user_email_management) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
+| [**vendor_data_pipeline**](https://github.com/rhythm-billore/vendor_data_pipeline) | A scalable end-to-end data ecosystem built on GCP, designed to process multi-source data and deliver real-time, analysis-ready outputs. The pipeline uses Cloud Storage, Pub/Sub, Cloud Functions, Dataflow, Composer, and BigQuery to automate ingestion, transformation, and trend analysis. Delivered with an interactive dashboard enabling deep insights into sales trends and customer behavior.|
+| [**yelp_recommendation_system**](https://github.com/rhythm-billore/yelp_recommendation_system) |A customer-oriented restaurant recommendation engine that uses TF-IDF, cosine similarity, and user-preference vectors to surface the most relevant places for each individual. Delivered with an interactive Streamlit UI featuring tailored suggestions, cuisine patterns, and exploratory insights. |
+| [**netflix_azure_data_engineering_project**](https://github.com/rhythm-billore/netflix_azure_data_engineering_project) |Azure-based data engineering project using Data Factory, ADLS, and SQL to build a reproducible ingestion and transformation pipeline for Netflix-themed datasets. Showcases linked services, pipelines, mapping flows, and query-ready outputs.|
+| [**user_email_management**](https://github.com/rhythm-billore/user_email_management) | A containerized email-management dashboard built with Streamlit, featuring structured storage, parsing, and analysis of user email activity. The app and SQL database run as independent Docker containers and are orchestrated on Kubernetes using Deployments, Services, and ConfigMaps, enabling reliable communication, scaling, and modular deployment.|
 | [**mental_health_counselor_guide**](https://github.com/rhythm-billore/mental_health_counselor_guide) | <img src="https://raw.githubusercontent.com/<replace>.png" width="120"/> <br> *Write your 2–3 line summary here.* |
 
 ---
