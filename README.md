@@ -32,38 +32,44 @@
 
 ---
 
-## ⚙️ Technologies & Tools  
+<h2 align="center">⚙️ Technologies & Tools</h2>
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
 
-  <!-- Analytics & BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="55"/>
+
+  <!-- Analytics / BI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="55"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/>
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/db2/db2-original.svg" width="55"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" width="55"/>
+  <img src="https://cdn.simpleicons.org/ibm/052FAD" width="55"/> <!-- DB2 -->
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="55"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="55"/>
 
   <!-- Data Engineering -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbt/dbt-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
 
-  <!-- Pipelines -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="55"/>
+  <!-- Productivity & DevOps -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="55"/>
+  <img src="https://cdn.simpleicons.org/servicenow/90C53F" width="55"/>
+  <img src="https://cdn.simpleicons.org/visio/3955A3" width="55"/>
 
-  <!-- Productivity / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55"/>
+  <!-- Excel & VBA -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
+  <img src="https://cdn.simpleicons.org/vba/000000" width="55"/>
+
 </p>
 
 ---
